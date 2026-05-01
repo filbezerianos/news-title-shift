@@ -1,0 +1,15 @@
+[client]
+showSidebarNavigation = false
+showErrorDetails = true
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+
+#blue 007BFF
+#red f3425f
+primaryColor = "#007BFF"
+
+#grey F8F9FA
+secondaryBackgroundColor = "#GGGGGG"
+
